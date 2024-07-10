@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{27AB3609-15DB-52E3-4D4E-5A489B4C4689}</ProjectGuid>
+    <ProjectGuid>{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,6 +66,7 @@
     <Compile Include="Assets\Script\ScriptableObject\CountrySO.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
+    <Compile Include="Assets\NewBehaviourScript1.cs" />
     <Compile Include="Assets\Script\ScriptableObject\ProvinceSO.cs" />
     <Compile Include="Assets\Script\Province.cs" />
   </ItemGroup>

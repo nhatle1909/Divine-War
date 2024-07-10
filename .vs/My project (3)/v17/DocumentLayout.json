@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\DevTools\\Unity\\Project\\My project (3)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\newbehaviourscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\newbehaviourscript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|d:\\devtools\\unity\\project\\my project (3)\\assets\\script\\scriptableobject\\countryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\countryso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\canvashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\canvashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\scriptableobject\\provincepolicyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\provincepolicyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\scriptableobject\\provincefinanceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\provincefinanceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\scriptableobject\\provinceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scriptableobject\\provinceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|D:\\DevTools\\Unity\\Project\\My project (3)\\assets\\script\\canvashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AB3609-15DB-52E3-4D4E-5A489B4C4689}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\canvashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\devtools\\unity\\project\\my project (3)\\assets\\so\\provinceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,72 +102,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewBehaviourScript1.cs",
+              "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\NewBehaviourScript1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NewBehaviourScript1.cs",
+              "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\NewBehaviourScript1.cs",
+              "RelativeToolTip": "Assets\\Script\\NewBehaviourScript1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:45:33.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProvincePolicySO.cs",
+              "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\ProvincePolicySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\ProvincePolicySO.cs",
+              "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\ProvincePolicySO.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\ProvincePolicySO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:44:40.972Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CountrySO.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\CountrySO.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\CountrySO.cs",
               "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\CountrySO.cs",
               "RelativeToolTip": "Assets\\Script\\ScriptableObject\\CountrySO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T15:16:41.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
               "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\GameManager.cs",
               "RelativeToolTip": "Assets\\Script\\GameManager.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAIAwwDIAAABgAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCEAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T12:41:38.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T12:41:38.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CanvasHandler.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\CanvasHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CanvasHandler.cs",
               "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\CanvasHandler.cs",
               "RelativeToolTip": "Assets\\Script\\CanvasHandler.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAATAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T03:28:55.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T03:28:55.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Province.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\Province.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Province.cs",
               "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\Province.cs",
               "RelativeToolTip": "Assets\\Script\\Province.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIAwwAwAAAAUAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowB0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:14:20.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T01:14:20.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProvinceSO.cs",
-              "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\ProvinceSO.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\ProvinceSO.cs",
-              "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\ProvinceSO.cs",
-              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\ProvinceSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "DocumentIndex": 3,
+              "Title": "ProvinceFinanceSO.cs",
+              "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\ProvinceFinanceSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScriptableObject\\ProvinceFinanceSO.cs",
+              "ToolTip": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Script\\ScriptableObject\\ProvinceFinanceSO.cs",
+              "RelativeToolTip": "Assets\\Script\\ScriptableObject\\ProvinceFinanceSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T01:14:19.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T01:14:19.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "NewBehaviourScript1 - Copy.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Province\\NewBehaviourScript1 - Copy.cs",
               "RelativeDocumentMoniker": "Assets\\Province\\NewBehaviourScript1 - Copy.cs",
@@ -171,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProvinceSO.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\SO\\ProvinceSO.cs",
               "RelativeDocumentMoniker": "Assets\\SO\\ProvinceSO.cs",
@@ -183,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "NewBehaviourScript1.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\NewBehaviourScript1.cs",
               "RelativeDocumentMoniker": "Assets\\NewBehaviourScript1.cs",
@@ -195,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AutoGenerateCollider.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\AutoGenerateCollider.cs",
               "RelativeDocumentMoniker": "Assets\\AutoGenerateCollider.cs",
@@ -206,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UiDataUpdater.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\ExampleScene\\Scripts\\UiDataUpdater.cs",
               "RelativeDocumentMoniker": "Assets\\ExampleScene\\Scripts\\UiDataUpdater.cs",
@@ -217,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "WorldMap.cs",
               "DocumentMoniker": "D:\\DevTools\\Unity\\Project\\My project (3)\\Assets\\Scripts\\WorldMap\\WorldMap.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WorldMap\\WorldMap.cs",

@@ -14,6 +14,8 @@ namespace Assets.Script
         [SerializeField]
         public string Culture;
         [SerializeField]
+        public int Security;
+        [SerializeField]
         public int GoldIncome;
         [SerializeField]
         public int FoodIncome;
@@ -27,6 +29,7 @@ namespace Assets.Script
         public List<ProvinceBuilding> ProvinceBuilding;
 
         public ProvinceSO provinceSO;
+     
 
         public void Awake()
         {
@@ -34,16 +37,16 @@ namespace Assets.Script
         }
         public void Init()
         {
-            ProvinceName = gameObject.name;
-            Country = transform.parent.name;
-            Population = provinceSO.Population;
-            Culture = provinceSO.Culture;
-            GoldCost = provinceSO.GoldCost;
-            FoodCost = provinceSO.FoodCost;
-            GoldIncome = provinceSO.GoldIncome;
-            FoodIncome = provinceSO.FoodIncome;
-            BuildingSlot = provinceSO.BuildingSlot;
-            ProvinceBuilding = provinceSO.ProvinceBuilding;
+            //ProvinceName = gameObject.name;
+            //Country = transform.parent.name;
+            //Population = provinceSO.Population;
+
+            //GoldCost = provinceSO.GoldCost;
+            //FoodCost = provinceSO.FoodCost;
+            //GoldIncome = provinceSO.GoldIncome;
+            //FoodIncome = provinceSO.FoodIncome;
+            //BuildingSlot = provinceSO.BuildingSlot;
+            //ProvinceBuilding = provinceSO.ProvinceBuilding;
         }
     }
 }
