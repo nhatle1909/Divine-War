@@ -12,11 +12,11 @@ namespace Assets.Script
         [SerializeField]
         public float TotalPopulation;
         [SerializeField]
-        public int TotalGold;
+        public float TotalGold;
         [SerializeField]
-        public int TotalFood;
+        public float TotalFood;
         [SerializeField]
-        public ProvinceSO[] ProvinceList;
+        public Province[] ProvinceList;
        
 
     }

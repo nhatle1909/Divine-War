@@ -7,21 +7,30 @@ namespace Assets.Script
     public class ProvinceSO : ScriptableObject
     {
         [SerializeField]
+        public int ProvinceLevel;
+        [SerializeField]
         public float Population;
+        [SerializeField]
+        public float GoldIncome;
+        [SerializeField]
+        public float FoodIncome;
+        [SerializeField]
+        public float GoldCost;
+        [SerializeField]
+        public float FoodCost;
+        [SerializeField]
+        public float BuildingSlot;
+     
+        [SerializeField]
+        public float Security;
         [SerializeField]
         public string Culture;
         [SerializeField]
-        public int GoldIncome;
-        [SerializeField]
-        public int FoodIncome;
-        [SerializeField]
-        public int GoldCost;
-        [SerializeField]
-        public int FoodCost;
-        [SerializeField]
-        public int BuildingSlot;
+        public string ProvinceColor;
         [SerializeField]
         public List<ProvinceBuilding> ProvinceBuilding;
+
+       
 
     }
     [System.Serializable]
@@ -31,7 +40,7 @@ namespace Assets.Script
 
         public BuildingNames BuildingName;
 
-        public int BuildingCost;
+        public float BuildingCost;
 
         public enum BuildingNames
         {
@@ -43,4 +52,6 @@ namespace Assets.Script
         }
 
     }
+  
+    
 }
