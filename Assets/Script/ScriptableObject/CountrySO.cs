@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using Assets.Script.Data;
 using UnityEngine;
 
-namespace Assets.Script
+namespace Assets.Script.SO
 {
     [CreateAssetMenu(fileName = "Country")]
     public class CountrySO : ScriptableObject
@@ -15,10 +15,12 @@ namespace Assets.Script
         public float TotalGold;
         [SerializeField]
         public float TotalFood;
-        [SerializeField]
-        public Province[] ProvinceList;
-       
+
+        public Province[] ProvinceList ;
+        
+        
+
 
     }
-   
+
 }

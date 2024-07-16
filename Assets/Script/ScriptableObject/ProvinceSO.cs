@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace Assets.Script
+namespace Assets.Script.SO
 {
     [CreateAssetMenu(fileName = "Province")]
     public class ProvinceSO : ScriptableObject
@@ -11,6 +11,12 @@ namespace Assets.Script
         [SerializeField]
         public float Population;
         [SerializeField]
+        public string Country;
+        [SerializeField]
+        public string Culture;
+        [SerializeField]
+        public int Security;
+        [SerializeField]
         public float GoldIncome;
         [SerializeField]
         public float FoodIncome;
@@ -19,18 +25,16 @@ namespace Assets.Script
         [SerializeField]
         public float FoodCost;
         [SerializeField]
-        public float BuildingSlot;
-     
-        [SerializeField]
-        public float Security;
-        [SerializeField]
-        public string Culture;
+        public int BuildingSlot;
+
+
+
         [SerializeField]
         public string ProvinceColor;
         [SerializeField]
         public List<ProvinceBuilding> ProvinceBuilding;
 
-       
+
 
     }
     [System.Serializable]
@@ -39,6 +43,7 @@ namespace Assets.Script
 
 
         public BuildingNames BuildingName;
+        public float BuildingUpkeep;
 
         public float BuildingCost;
 
@@ -52,6 +57,6 @@ namespace Assets.Script
         }
 
     }
-  
-    
+
+
 }
